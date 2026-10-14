@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.nelinor.autoprop.app-mergeReleaseResources-40:/layout/item_media.xml",
+        "source": "com.nelinor.autoprop.app-main-42:/layout/item_media.xml"
+    },
+    {
+        "merged": "com.nelinor.autoprop.app-mergeReleaseResources-40:/layout/activity_main.xml",
+        "source": "com.nelinor.autoprop.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nelinor.autoprop.app-mergeReleaseResources-40:/layout/activity_crop.xml",
+        "source": "com.nelinor.autoprop.app-main-42:/layout/activity_crop.xml"
+    }
+]

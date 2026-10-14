@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nelinor.autoprop.app-mergeReleaseResources-39:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ÇİLEK\\.gradle\\caches\\8.9\\transforms\\422563ac48a6f99c36701b0d5c69d22c\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ÇİLEK\\.gradle\\daemon\\8.9\\com.nelinor.autoprop.app-mergeDebugResources-40:\\layout\\activity_crop.xml",
+        "source": "C:\\Users\\ÇİLEK\\.gradle\\daemon\\8.9\\com.nelinor.autoprop.app-main-43:\\layout\\activity_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ÇİLEK\\.gradle\\daemon\\8.9\\com.nelinor.autoprop.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ÇİLEK\\.gradle\\daemon\\8.9\\com.nelinor.autoprop.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ÇİLEK\\.gradle\\daemon\\8.9\\com.nelinor.autoprop.app-mergeDebugResources-40:\\layout\\item_media.xml",
+        "source": "C:\\Users\\ÇİLEK\\.gradle\\daemon\\8.9\\com.nelinor.autoprop.app-main-43:\\layout\\item_media.xml"
+    },
+    {
+        "merged": "com.nelinor.autoprop.app-mergeDebugResources-40:/layout/item_media.xml",
+        "source": "com.nelinor.autoprop.app-main-43:/layout/item_media.xml"
+    },
+    {
+        "merged": "com.nelinor.autoprop.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.nelinor.autoprop.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nelinor.autoprop.app-mergeDebugResources-40:/layout/activity_crop.xml",
+        "source": "com.nelinor.autoprop.app-main-43:/layout/activity_crop.xml"
+    }
+]

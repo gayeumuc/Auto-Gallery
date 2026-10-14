@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#FF2196F3</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="black">#FF000000</color>
+    <color name="primary">#FF2196F3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="sent_badge_bg">#FF1565C0</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <integer name="min_car_api_level">1</integer>
+    <string name="action_browse_gallery">Browse Gallery</string>
+    <string name="action_clear">Close</string>
+    <string name="action_no_image_sent">No photo sent yet</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_view_sent">View: %1$s</string>
+    <string name="app_name">Auto Prop</string>
+    <string name="currently_sent">Currently on car screen:</string>
+    <string name="default_image_url">https://spells8.com/wp-content/uploads/2021/08/Gaia-Goddess-Worship.jpg</string>
+    <string name="error_bitmap_null">Image could not be decoded.</string>
+    <string name="error_loading_image">Could not load image: %1$s</string>
+    <string name="error_title">Error</string>
+    <string name="home_message_image_ready">Photo ready: %1$s\nTap \"View Sent Photo\" to display it.</string>
+    <string name="home_message_no_image">Open the app on your phone and tap a photo to display it here.</string>
+    <string name="image_sent_from_phone">Sent from phone</string>
+    <string name="loading_image">Loading image…</string>
+    <string name="no_image_selected">No photo selected. Go back and tap a photo on your phone.</string>
+    <string name="no_images_found">No images found on device.</string>
+    <string name="no_photos">No photos found on this device.</string>
+    <string name="permission_denied">Storage permission is required to view photos.</string>
+    <string name="screen_detail_title">Photo Viewer</string>
+    <string name="screen_gallery_title">Gallery</string>
+    <string name="sent_to_car">Sent to car: %1$s</string>
+    <string name="tap_image_to_send">Tap a photo to send it to the car screen</string>
+    <string name="tap_to_view">Tap to view on car screen</string>
+    <string name="unknown_image">Unknown</string>
+    <style name="Theme.AutoProp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorPrimaryVariant">@color/surface_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/surface_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>
